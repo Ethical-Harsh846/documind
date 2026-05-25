@@ -1,0 +1,25 @@
+The History of Artificial Intelligence
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. The term was coined by John McCarthy in 1956 at the Dartmouth Conference, which is widely considered the birth of AI as a field.
+
+Early AI research in the 1950s and 1960s focused on symbolic reasoning and problem-solving. Programs like the General Problem Solver (GPS) attempted to mimic human reasoning through formal logic. Alan Turing, whose 1950 paper "Computing Machinery and Intelligence" introduced the Turing Test, laid philosophical foundations still debated today.
+
+The first AI winter (1974–1980) arrived when researchers failed to deliver on early promises. Funding dried up as systems could not handle the complexity of real-world tasks. Progress resumed in the 1980s with expert systems — programs that encoded human expertise as rules, such as MYCIN, which could diagnose bacterial infections.
+
+A second AI winter occurred in the late 1980s to early 1990s when expert systems proved brittle and expensive to maintain. Machine learning began to gain ground as an alternative approach, allowing systems to learn from data rather than being hand-programmed.
+
+The deep learning revolution began in 2012 when Geoffrey Hinton's team won the ImageNet competition with a convolutional neural network (AlexNet), reducing the error rate dramatically. This sparked massive investment in neural networks.
+
+Large Language Models (LLMs) represent the latest frontier. GPT-3, released by OpenAI in 2020, demonstrated that scaling model size and training data could produce remarkably general language abilities. Models can now write code, summarize documents, answer questions, and translate languages with near-human fluency.
+
+Key challenges in AI today include:
+- Hallucination: models generating plausible-sounding but false information
+- Alignment: ensuring AI systems pursue goals humans actually intend
+- Interpretability: understanding why models make specific decisions
+- Compute cost: training large models requires enormous energy resources
+
+Retrieval-Augmented Generation (RAG) addresses hallucination by grounding the model's answers in retrieved documents. Instead of relying solely on memorized training data, a RAG system fetches relevant passages at query time and injects them into the model's context window.
+
+The Anthropic company, founded in 2021 by former OpenAI researchers, develops the Claude family of models. Claude is designed with a focus on safety and helpfulness, using Constitutional AI training techniques to reduce harmful outputs.
+
+Looking ahead, researchers are exploring multimodal systems (text + images + audio), more efficient training methods, and better ways to reason over long documents. Whether AI will eventually reach artificial general intelligence (AGI) — matching human ability across all domains — remains one of the most debated questions in the field.
