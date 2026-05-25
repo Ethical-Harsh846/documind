@@ -110,19 +110,6 @@ Upload `sample_docs/ai_history.txt` and ask:
 
 ---
 
-## Demo
-
-> 📺 **Recommended YouTube resources to understand the stack:**
->
-> - [**RAG from Scratch (no LangChain)**](https://youtu.be/sVcwVQRHIc8) — freeCodeCamp, ~2 hrs, covers chunking + retrieval  
-> - [**Anthropic API Crash Course**](https://youtu.be/QdDoFfkVkcw) — covers streaming, multi-turn messages  
-> - [**Streamlit in 12 Minutes**](https://youtu.be/JwSS70SZdyM) — get comfortable with the UI framework  
->
-> **To record your own demo video (free):**  
-> Use [OBS Studio](https://obsproject.com/) (free, cross-platform) — start recording, open the app, upload the sample doc, ask 3-4 questions, stop recording. A 90-second screencast is all you need.
-
----
-
 ## Project Structure
 
 ```
